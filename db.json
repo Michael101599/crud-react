@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "Huell",
+      "email": "huell@gmail.com",
+      "contact": "7402937",
+      "address": "Nuevo México",
+      "id": 8
+    },
+    {
+      "name": "Kim",
+      "email": "wexler@gmail.com",
+      "contact": "2309487",
+      "address": "Florida",
+      "id": 9
+    },
+    {
+      "name": "Lalo",
+      "email": "salamanca@gmail.com",
+      "contact": "9384002",
+      "address": "Chihuahua",
+      "id": 10
+    },
+    {
+      "name": "Saul",
+      "email": "goodman@gmail.com",
+      "contact": "9382764",
+      "address": "Albuquerque",
+      "id": 11
+    }
+  ]
+}
